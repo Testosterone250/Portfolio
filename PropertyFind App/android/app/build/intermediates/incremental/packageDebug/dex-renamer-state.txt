@@ -1,0 +1,4 @@
+#Sun Mar 05 09:36:00 EET 2017
+base.0=D\:\\Project\\Application\\PropertyCrossApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Project\\Application\\PropertyCrossApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
